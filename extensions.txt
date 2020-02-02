@@ -1,0 +1,13 @@
+danielpinto8zz6.c-cpp-compile-run-0.5.0
+davidbroetje.algorithm-mnemonics-vscode-1.0.3
+dbaeumer.vscode-eslint-1.6.0
+eriklynd.json-tools-1.0.2
+hookyqr.beautify-1.5.0
+ms-python.python-2019.1.0
+ms-vscode.cpptools-0.21.0
+ms-vscode.go-0.11.4
+msjsdiag.debugger-for-chrome-4.12.4
+quicktype.quicktype-12.0.46
+shan.code-settings-sync-3.1.2
+xaver.clang-format-1.9.0
+yzhang.markdown-all-in-one-2.0.1
