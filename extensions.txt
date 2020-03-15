@@ -2,7 +2,9 @@ danielpinto8zz6.c-cpp-compile-run-0.5.0
 davidbroetje.algorithm-mnemonics-vscode-1.0.3
 dbaeumer.vscode-eslint-1.6.0
 eriklynd.json-tools-1.0.2
+grapecity.gc-excelviewer-2.1.32
 hookyqr.beautify-1.5.0
+mechatroner.rainbow-csv-1.5.0
 ms-python.python-2019.1.0
 ms-vscode.cpptools-0.21.0
 ms-vscode.go-0.11.4
