@@ -10,6 +10,11 @@ ms-vscode.cpptools-0.21.0
 ms-vscode.go-0.11.4
 msjsdiag.debugger-for-chrome-4.12.4
 quicktype.quicktype-12.0.46
+redhat.java-0.34.0
 shan.code-settings-sync-3.1.2
+vscjava.vscode-java-debug-0.18.0
+vscjava.vscode-java-pack-0.4.0
+vscjava.vscode-java-test-0.19.0
+vscjava.vscode-maven-0.18.1
 xaver.clang-format-1.9.0
 yzhang.markdown-all-in-one-2.0.1
