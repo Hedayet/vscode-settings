@@ -17,5 +17,6 @@
     },
     "files.autoSave": "afterDelay",
     "clang-format.executable": "${workspaceRoot}",
-    "C_Cpp.clang_format_fallbackStyle": "{ColumnLimit: 80}"
+    "C_Cpp.clang_format_fallbackStyle": "{ColumnLimit: 80}",
+    "typescript.updateImportsOnFileMove.enabled": "always"
 }
