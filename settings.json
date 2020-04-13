@@ -13,10 +13,13 @@
         "editor.formatOnSave": true
     },
     "files.associations": {
-        "*.js":"javascriptreact"
+        "*.js":"javascriptreact",
     },
     "files.autoSave": "afterDelay",
     "clang-format.executable": "${workspaceRoot}",
     "C_Cpp.clang_format_fallbackStyle": "{ColumnLimit: 80}",
-    "typescript.updateImportsOnFileMove.enabled": "always"
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
