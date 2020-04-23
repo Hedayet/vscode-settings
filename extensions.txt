@@ -4,6 +4,7 @@ davidbroetje.algorithm-mnemonics-vscode-1.0.3
 dbaeumer.vscode-eslint-1.6.0
 dbaeumer.vscode-eslint-2.1.2
 dbaeumer.vscode-eslint-2.1.3
+dbaeumer.vscode-eslint-2.1.5
 eriklynd.json-tools-1.0.2
 grapecity.gc-excelviewer-2.1.32
 grapecity.gc-excelviewer-2.1.34
@@ -13,6 +14,7 @@ mechatroner.rainbow-csv-1.6.0
 mechatroner.rainbow-csv-1.7.0
 ms-python.python-2019.1.0
 ms-python.python-2020.3.71659
+ms-python.python-2020.4.74986
 ms-vscode.cpptools-0.21.0
 ms-vscode.cpptools-0.27.0
 ms-vscode.go-0.11.4
