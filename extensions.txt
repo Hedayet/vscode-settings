@@ -15,8 +15,10 @@ mechatroner.rainbow-csv-1.7.0
 ms-python.python-2019.1.0
 ms-python.python-2020.3.71659
 ms-python.python-2020.4.74986
+ms-python.python-2020.4.76186
 ms-vscode.cpptools-0.21.0
 ms-vscode.cpptools-0.27.0
+ms-vscode.cpptools-0.27.1
 ms-vscode.go-0.11.4
 ms-vscode.go-0.13.1
 ms-vscode.go-0.14.1
