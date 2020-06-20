@@ -11,6 +11,7 @@ mechatroner.rainbow-csv-1.7.0
 ms-python.python-2020.5.80290
 ms-python.python-2020.5.86806
 ms-python.python-2020.6.88468
+ms-python.python-2020.6.89148
 ms-vscode.cpptools-0.28.1
 ms-vscode.cpptools-0.28.2
 ms-vscode.cpptools-0.28.3
@@ -32,3 +33,4 @@ vscjava.vscode-maven-0.22.0
 xaver.clang-format-1.9.0
 yzhang.markdown-all-in-one-2.8.0
 yzhang.markdown-all-in-one-3.0.0
+yzhang.markdown-all-in-one-3.1.0
