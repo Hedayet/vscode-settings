@@ -32,6 +32,7 @@ visualstudioexptteam.vscodeintellicode-1.2.8
 visualstudioexptteam.vscodeintellicode-1.2.9
 vscjava.vscode-java-debug-0.26.0
 vscjava.vscode-java-debug-0.27.0
+vscjava.vscode-java-debug-0.27.1
 vscjava.vscode-java-dependency-0.10.1
 vscjava.vscode-java-dependency-0.10.2
 vscjava.vscode-java-pack-0.9.1
