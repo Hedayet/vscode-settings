@@ -19,6 +19,7 @@ ms-python.python-2020.6.89148
 ms-python.python-2020.6.90262
 ms-python.python-2020.6.91350
 ms-python.python-2020.8.103604
+ms-python.python-2020.8.105045
 ms-vscode.cpptools-0.28.1
 ms-vscode.cpptools-0.28.2
 ms-vscode.cpptools-0.28.3
