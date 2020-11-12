@@ -12,11 +12,13 @@ grapecity.gc-excelviewer-3.0.40
 hookyqr.beautify-1.5.0
 mechatroner.rainbow-csv-1.7.1
 ms-python.python-2020.10.332292344
+ms-python.python-2020.11.358366026
 ms-python.python-2020.5.80290
 ms-python.python-2020.5.86806
 ms-python.python-2020.6.88468
 ms-python.python-2020.6.89148
 ms-python.python-2020.6.90262
+ms-toolsai.jupyter-2020.11.358541065
 ms-vscode.cpptools-0.28.1
 ms-vscode.cpptools-0.28.2
 ms-vscode.cpptools-0.28.3
