@@ -3,7 +3,7 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "editor.minimap.enabled": false,
     "files.trimTrailingWhitespace": true,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 3,
     "editor.multiCursorModifier": "alt",
     "breadcrumbs.enabled": true,
     "[javascript]": {
@@ -24,5 +24,11 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "python.jediEnabled": false,
-    "python.languageServer": "Microsoft"
+    "python.languageServer": "Microsoft",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ]
 }
