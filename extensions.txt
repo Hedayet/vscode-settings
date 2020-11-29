@@ -3,6 +3,7 @@ danielpinto8zz6.c-cpp-compile-run-1.0.8
 davidbroetje.algorithm-mnemonics-vscode-1.0.3
 dbaeumer.vscode-eslint-2.1.13
 eriklynd.json-tools-1.0.2
+esbenp.prettier-vscode-5.8.0
 golang.go-0.14.4
 golang.go-0.15.0
 golang.go-0.15.1
