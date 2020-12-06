@@ -4,7 +4,7 @@
     "javascript.validate.enable": false,
     "editor.minimap.enabled": false,
     "files.trimTrailingWhitespace": true,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 3,
     "editor.multiCursorModifier": "alt",
     "breadcrumbs.enabled": true,
     "[javascript]": {
