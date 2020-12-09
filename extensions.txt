@@ -43,6 +43,7 @@ vscjava.vscode-java-pack-0.12.0
 vscjava.vscode-java-test-0.22.4
 vscjava.vscode-java-test-0.23.0
 vscjava.vscode-java-test-0.26.0
+vscjava.vscode-java-test-0.26.1
 vscjava.vscode-maven-0.21.4
 vscjava.vscode-maven-0.22.0
 vscjava.vscode-maven-0.25.0
