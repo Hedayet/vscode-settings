@@ -31,6 +31,7 @@ msjsdiag.debugger-for-chrome-4.12.11
 quicktype.quicktype-12.0.46
 redhat.java-0.71.0
 redhat.java-0.72.0
+tabnine.tabnine-vscode-3.1.18
 toba.vsfire-1.4.1
 visualstudioexptteam.vscodeintellicode-1.2.10
 visualstudioexptteam.vscodeintellicode-1.2.7

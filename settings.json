@@ -31,5 +31,6 @@
             "viewType": "jupyter.notebook.ipynb",
             "filenamePattern": "*.ipynb"
         }
-    ]
+    ],
+    "tabnine.experimentalAutoImports": true
 }
