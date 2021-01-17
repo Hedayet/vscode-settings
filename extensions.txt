@@ -1,3 +1,4 @@
+coenraads.bracket-pair-colorizer-2-0.2.0
 danielpinto8zz6.c-cpp-compile-run-1.0.13
 danielpinto8zz6.c-cpp-compile-run-1.0.8
 davidbroetje.algorithm-mnemonics-vscode-1.0.3
