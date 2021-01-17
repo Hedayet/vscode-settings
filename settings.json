@@ -15,7 +15,7 @@
         "editor.defaultFormatter": "ms-vscode.cpptools"
     },
     "files.associations": {
-        "*.js":"javascriptreact",
+        "*.js": "javascriptreact",
     },
     "files.autoSave": "afterDelay",
     "clang-format.executable": "${workspaceRoot}",
@@ -32,5 +32,14 @@
             "filenamePattern": "*.ipynb"
         }
     ],
-    "tabnine.experimentalAutoImports": true
+    "tabnine.experimentalAutoImports": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    }
 }
