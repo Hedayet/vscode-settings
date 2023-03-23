@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+set -e
 # TODO(user): change path to this script here
 cd ~/git-projects/vscode-settings/
 
